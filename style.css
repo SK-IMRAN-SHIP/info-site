@@ -232,7 +232,7 @@ p {
 /* Hero Section */
 
 #hero {
-    background-image: url(./img/hero-bg.jpg);
+    background-image: url("https://scontent.fhyd5-1.fna.fbcdn.net/v/t1.18169-9/24232808_117056969078548_8654614756816822200_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=ZqYEZWVDfocAX_6cYM0&tn=XWIGeO6AIBIXf7iy&_nc_ht=scontent.fhyd5-1.fna&oh=00_AT85a2ar3gRzv4T5cP7lKs2-XXM3NRB0q9bxGhHqYj-NLQ&oe=630CFD50");
     background-size: cover;
     background-position: top center;
     position: relative;

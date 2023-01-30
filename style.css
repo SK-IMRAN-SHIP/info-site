@@ -339,7 +339,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./img/img-1.jpg);
+    background-image: url("https://scontent.fhyd5-1.fna.fbcdn.net/v/t1.18169-9/26731538_151107799006798_2702287044017345984_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=iHPTAz-6IIkAX-OB7nI&_nc_oc=AQlrD2pC8_cvLVkHhaymWWEnkX3Vr5CTWEKlzb8b0rV5OU9-WevkdFt6OjzwzOFi-oM&_nc_ht=scontent.fhyd5-1.fna&oh=00_AfAGQ8rcGZD70xENO0o_yDHBS4ippKqUjQZyKWsPxOWpsg&oe=63FF1D20");
     background-size: cover;
     margin: 10px 5%;
     position: relative;
